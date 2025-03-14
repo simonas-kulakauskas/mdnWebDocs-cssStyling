@@ -14,6 +14,13 @@ h2 {
   font-style: italic;
 }
 
+h2 + ul {
+  /* Selects the 'Contact Information' list. */
+  background-color: #eeeeee;
+  border: 5px solid purple;
+  padding: 1.5em;
+}
+
 .job-title {
   color: #999999;
   font-weight: bold;
@@ -32,7 +39,7 @@ a:hover {
 * 1. Make level one heading pink.                       [✅]
 * 2. Heading 10px dotted border bottom colored purple.  [✅]
 * 3. Level 2 heading italic.                            [✅]
-* 4. UL for contact deatils a #eeeeee background, 5px   [❌]
-*    solid purple border and some padding to push away. [❌]
+* 4. UL for contact details a #eeeeee background, 5px   
+*    solid purple border and some padding to push away. [✅]
 * 5. Make links green on hover.                         [❌]
 */
