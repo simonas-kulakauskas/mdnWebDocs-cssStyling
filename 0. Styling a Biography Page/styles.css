@@ -11,6 +11,7 @@ h1 {
 
 h2 {
   font-size: 1.5em;
+  font-style: italic;
 }
 
 .job-title {
@@ -29,8 +30,8 @@ a:hover {
 
 /* ! Checklist for challenge. [✅/❌]
 * 1. Make level one heading pink.                       [✅]
-* 2. Heading 10px dotted border bottom colored purple. [✅]
-* 3. Level 2 heading italic.                            [❌]
+* 2. Heading 10px dotted border bottom colored purple.  [✅]
+* 3. Level 2 heading italic.                            [✅]
 * 4. UL for contact deatils a #eeeeee background, 5px   [❌]
 *    solid purple border and some padding to push away. [❌]
 * 5. Make links green on hover.                         [❌]
