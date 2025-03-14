@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-  color: #375e97;
+  color: hotpink;
   font-size: 2em;
   font-family: Georgia, "Times New Roman", Times, serif;
   border-bottom: 1px solid #375e97;
@@ -28,7 +28,7 @@ a:hover {
 }
 
 /* ! Checklist for challenge. [✅/❌]
-* 1. Make level one heading pink.                       [❌]
+* 1. Make level one heading pink.                       [✅]
 * 2. Heading 10pox dotted border bottom colored purple. [❌]
 * 3. Level 2 heading italic.                            [❌]
 * 4. UL for contact deatils a #eeeeee background, 5px   [❌]
