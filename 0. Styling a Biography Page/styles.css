@@ -33,6 +33,7 @@ a:visited {
 
 a:hover {
   text-decoration: none;
+  color: green;
 }
 
 /* ! Checklist for challenge. [✅/❌]
@@ -41,5 +42,5 @@ a:hover {
 * 3. Level 2 heading italic.                            [✅]
 * 4. UL for contact details a #eeeeee background, 5px   
 *    solid purple border and some padding to push away. [✅]
-* 5. Make links green on hover.                         [❌]
+* 5. Make links green on hover.                         [✅]
 */
