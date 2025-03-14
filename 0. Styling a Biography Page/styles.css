@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #375e97;
+  font-size: 2em;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  border-bottom: 1px solid #375e97;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+.job-title {
+  color: #999999;
+  font-weight: bold;
+}
+
+a:link,
+a:visited {
+  color: #fb6542;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* ! Checklist for challenge. [✅/❌]
+* 1. Make level one heading pink.                       [❌]
+* 2. Heading 10pox dotted border bottom colored purple. [❌]
+* 3. Level 2 heading italic.                            [❌]
+* 4. UL for contact deatils a #eeeeee background, 5px   [❌]
+*    solid purple border and some padding to push away. [❌]
+* 5. Make links green on hover.                         [❌]
+*/
