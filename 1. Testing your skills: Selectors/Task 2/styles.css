@@ -2,3 +2,28 @@ body {
   font: 1.2em / 1.5 sans-serif;
 }
 /* Add styles here */
+
+#special {
+  background-color: yellow;
+}
+
+.alert {
+  border: 2px solid grey;
+}
+
+.alert.stop {
+  background-color: red;
+}
+
+.alert.go {
+  background-color: green;
+}
+/*
+Task 2
+In this task, we want you to make the following changes to the look of the content in this example, without changing the HTML:
+
+x Give the element with an id of special a yellow background.
+x Give the element with a class of alert a 2px grey border.
+x If the element with a class of alert also has a class of stop, make the background red.
+x If the element with a class of alert also has a class of go, make the background green.
+*/
