@@ -1,1 +1,40 @@
 /* Add styles here */
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.container:first-child {
+  font-size: 150%;
+  .container:first-child::first-line {
+    color: red;
+  }
+}
+tr:nth-child(even) {
+  /* Had to get solution for this! */
+  background-color: #333;
+  color: #fff;
+}
+
+/*
+Task 3
+In this task, we want you to make the following changes 
+without changing the HTML:
+
+x Style links, making the link-state orange, visited links green, 
+and remove the underline on hover.
+
+x Make the first element inside the container font-size: 150% 
+and the first line of that element red.
+
+x Stripe every other row in the table by selecting these rows 
+and giving them a background color of #333 and foreground white.
+*/
