@@ -2,3 +2,29 @@ a {
   border: 5px solid grey;
 }
 /* Add styles here */
+
+a[title] {
+  border-color: pink;
+}
+
+a[href*="contact"] {
+  border-color: orange;
+}
+
+a[href^="https"] {
+  border-color: green;
+}
+/*
+
+Task 5
+
+x Target the <a> element with a title attribute and make the 
+border pink (border-color: pink).
+
+x Target the <a> element with an href attribute that contains 
+the word contact somewhere in its value and make the border 
+orange (border-color: orange).
+
+x Target the <a> element with an href value starting with 
+https and give it a green border (border-color: green).
+*/
