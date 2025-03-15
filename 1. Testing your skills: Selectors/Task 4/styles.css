@@ -2,3 +2,21 @@ body {
   font: 1.2em / 1.5 sans-serif;
 }
 /* Add styles here */
+h2 + p {
+  color: red;
+}
+
+ul[class="list"] > li {
+  list-style-type: none;
+  border-bottom: 1px solid gray;
+}
+
+/*
+Task 4
+In this task, we want you to do the following:
+
+x Make any paragraph that directly follows an <h2> element red.
+x Remove the bullets and add a 1px grey bottom border only to 
+list items that are a direct child of the ul with a class of list.
+
+*/
