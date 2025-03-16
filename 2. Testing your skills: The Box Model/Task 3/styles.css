@@ -1,0 +1,18 @@
+body {
+  font: 1.2em / 1.5 sans-serif;
+}
+
+.box span {
+  background-color: pink;
+  border: 5px solid black;
+  padding: 1em;
+}
+
+/* Task 3
+The inline element has a margin, padding * border.
+However, lines above and below are overlapping it. 
+
+- We should add to our CSS to cause the size of margin, 
+  padding & border to be respected,
+  while keeping the element inline.
+*/

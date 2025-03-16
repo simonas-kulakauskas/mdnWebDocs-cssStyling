@@ -1,0 +1,21 @@
+body {
+  font: 1.2em / 1.5 sans-serif;
+}
+.box {
+  border: 5px solid rebeccapurple;
+  background-color: lightgray;
+  padding: 40px;
+  margin: 40px;
+  width: 300px;
+  height: 150px;
+}
+
+.alternate {
+  box-sizing: border-box;
+}
+
+/* Task 1
+Two boxes, one is standard and one is alternate box model.
+- Change the width of second box by adding declarations in the
+  .alternate class so it matches the first box.
+*/
