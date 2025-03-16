@@ -12,6 +12,10 @@ body {
 
 .alternate {
   box-sizing: border-box;
+  /* New width: 300 + 40 + 40 + 5 + 5 = 390px*/
+  /* New height: 150 + 40 + 40 + 5 + 5 = 240px*/
+  width: 390px;
+  height: 240px;
 }
 
 /* Task 1
