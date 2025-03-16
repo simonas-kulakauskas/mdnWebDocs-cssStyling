@@ -9,6 +9,9 @@ div div li a {
   color: rebeccapurple;
 }
 
+#outer #inner a {
+  background-color: initial;
+}
 /* Task 1
 For this task, we want to look at controlling inheritance. 
 - We want to write a rule that will reset the background color back to
