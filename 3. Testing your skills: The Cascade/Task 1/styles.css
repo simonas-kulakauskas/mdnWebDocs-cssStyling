@@ -1,0 +1,16 @@
+#outer div ul .nav a {
+  background-color: powderblue;
+  padding: 5px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+div div li a {
+  color: rebeccapurple;
+}
+
+/* Task 1
+For this task, we want to look at controlling inheritance. 
+- We want to write a rule that will reset the background color back to
+  white, without using the actual color value.
+*/

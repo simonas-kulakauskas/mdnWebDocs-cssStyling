@@ -1,0 +1,25 @@
+@layer yellow, purple, green;
+
+@layer yellow {
+  #outer div ul .nav a {
+    padding: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+}
+@layer purple {
+  div div li a {
+    color: rebeccapurple;
+  }
+}
+@layer green {
+  a {
+    color: lightgreen;
+  }
+}
+
+/* Task 2
+For this task, we want manipulate the cascale layer order to:
+- color the links `rebeccapurple`
+    - we cannot edit the `lightgreen` declaration
+*/
