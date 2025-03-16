@@ -3,6 +3,17 @@ body {
 }
 
 .box {
+  border: 5px dotted black;
+  padding: 1em;
+
+  /* Longhand version */
+  margin-top: 20px;
+  margin-right: 1em;
+  margin-bottom: 40px;
+  margin-left: 2em;
+
+  /* Shorthand version */
+  margin: 20px 1em 40px 2em;
 }
 
 /* Task 2
