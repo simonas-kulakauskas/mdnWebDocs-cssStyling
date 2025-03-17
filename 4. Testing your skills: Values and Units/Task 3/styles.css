@@ -1,0 +1,10 @@
+.box {
+  background-image: url(https://mdn.github.io/shared-assets/images/examples/purple-star.png);
+  background-repeat: no-repeat;
+}
+
+/* Task 3
+In this task:
+    - We should move the background image so it is centered horizontally
+    and is 20% from the top of the box.
+*/
