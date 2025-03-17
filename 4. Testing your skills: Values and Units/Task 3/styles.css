@@ -1,6 +1,8 @@
 .box {
-  background-image: url(https://mdn.github.io/shared-assets/images/examples/purple-star.png);
+  background-image: url("https://mdn.github.io/shared-assets/images/examples/purple-star.png");
   background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: 20%;
 }
 
 /* Task 3
