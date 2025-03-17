@@ -1,9 +1,15 @@
 .box1 {
   /* Add styles here */
+  min-height: 100px;
 }
 
 .box2 {
   /* Add styles here */
+  height: 100px;
+}
+
+.box {
+  border: 5px solid black;
 }
 
 /* Task 1
