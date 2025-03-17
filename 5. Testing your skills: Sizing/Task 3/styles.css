@@ -1,0 +1,10 @@
+img {
+  /* Add styles here */
+}
+
+/* Task 3
+In this task, we have  two images in boxes. One image is smalelr than the box
+while the other is larger and is breaking out of the box.
+  - We should make the boxes responsive to the sizes of images but doesn't stretch them
+  if they're too small.
+*/

@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+.inner {
+  /* Add styles here */
+}
+
+/* Task 2
+  In this task we have a box, it contains another box.
+    - We should make the inner box 60% of the width of the outer box.
+      - We should also give the inner box padding of 10% using width or inline size.
+*/
