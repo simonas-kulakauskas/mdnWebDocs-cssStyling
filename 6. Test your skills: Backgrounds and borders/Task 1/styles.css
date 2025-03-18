@@ -3,9 +3,7 @@
   border: 5px solid black;
   border-radius: 10px;
   background-image: url(https://mdn.github.io/shared-assets/images/examples/balloons.jpg);
-  background-position: top center;
   background-size: cover;
-  background-repeat: no-repeat;
 }
 
 h2 {
