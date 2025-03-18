@@ -1,9 +1,17 @@
 .box {
   /* Add styles here */
+  border: 5px solid black;
+  border-radius: 10px;
+  background-image: url(https://mdn.github.io/shared-assets/images/examples/balloons.jpg);
+  background-position: top center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h2 {
   /* Add styles here */
+  background-color: rgb(0 0 0 / 45%);
+  color: white;
 }
 
 /* Task 1 
