@@ -1,0 +1,18 @@
+.box {
+  /* Add styles here */
+}
+
+h2 {
+  /* Add styles here */
+}
+
+/* Task 2 
+In this task:
+    - Give the box a 5px lightblue border and round the top left corner
+    20px and bottom right corner 40px.
+    - The heading uses `star.png` image as a background image, with a single
+    centered star on the left and a repeating pattern of stars on the right.
+    "https://mdn.github.io/shared-assets/images/examples/star.png"
+    - Make sure that the heading text does not overlay the image and it is
+    centered.
+*/

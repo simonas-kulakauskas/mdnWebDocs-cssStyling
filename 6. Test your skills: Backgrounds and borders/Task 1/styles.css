@@ -1,0 +1,16 @@
+.box {
+  /* Add styles here */
+}
+
+h2 {
+  /* Add styles here */
+}
+
+/* Task 1 
+In this task:
+    - We give the box a 5px solid black border, with rounder 10px corners.
+    - Give the <h2> a semi-transparent black background color and make
+    the text white.
+    - Add a background-image and size it so it covers the box.
+    "https://mdn.github.io/shared-assets/images/examples/balloons.jpg"
+*/
